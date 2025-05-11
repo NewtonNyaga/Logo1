@@ -1,4 +1,4 @@
-# Newtech Logo
+# Newtech solution Logo
 This repository contains the official logo of **Newtech**, a company committed to delivering innovative digital solutions to empower businesses.
 
 ## Logo Usage
